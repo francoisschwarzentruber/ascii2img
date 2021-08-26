@@ -55,7 +55,7 @@ function draw(text) {
             drawCell2(ctx, M, x, y);
       }
 
-    // requestAnimationFrame(() => draw(text))
+    //requestAnimationFrame(() => draw(text))
 }
 
 
